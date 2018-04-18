@@ -1,0 +1,55 @@
+[
+  {
+    "ip": "194.31.46.184",
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "region_code": "30",
+    "region_name": "Kyiv City",
+    "city": "Kiev",
+    "zip_code": "01044",
+    "time_zone": "Europe/Kiev",
+    "latitude": 50.4333,
+    "longitude": 30.5167,
+    "metro_code": 0
+  },
+  {
+    "line": "Spirit Airlines + Norwegian + easyJet + Air Malta",
+    "price": "£1,068"
+  },
+  {
+    "line": "jetBlue + Thomas Cook Airlines + easyJet + Air Malta + Norwegian + Spirit Airlines",
+    "price": "£1,114"
+  },
+  {
+    "line": "Spirit Airlines + WOW air + Air Malta + easyJet + Norwegian",
+    "price": "£1,033"
+  },
+  {
+    "line": "jetBlue + Thomas Cook Airlines + easyJet + Air Malta + Norwegian + Frontier Airlines",
+    "price": "£1,169"
+  },
+  {
+    "line": "Spirit Airlines + Norwegian + easyJet + Air Malta + Frontier Airlines",
+    "price": "£1,124"
+  },
+  {
+    "line": "jetBlue + Thomas Cook Airlines + easyJet + Air Malta + WOW air",
+    "price": "£1,191"
+  },
+  {
+    "line": "Lufthansa",
+    "price": "£2,306"
+  },
+  {
+    "line": "Lufthansa",
+    "price": "£2,309"
+  },
+  {
+    "line": "Lufthansa",
+    "price": "£2,313"
+  },
+  {
+    "line": "Lufthansa",
+    "price": "£2,384"
+  }
+]
